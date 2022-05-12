@@ -9,7 +9,6 @@ Welcome, I am Raisul Islam Rijan. I have been started my career since 5+ years a
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [DeveloperRijan.COM](http://developerrijan.com)
 * ✉️  You can contact me at [DeveloperRijan@gmail.com](mailto:DeveloperRijan@gmail.com)
-* 🚀  I'm currently working on [CodeHoly (Own Project)](http://codeholy.com)
 * 🧠  I'm learning Golang + Rust
 * ⚡  Am Friendly Person Over a Developer ):
 
