@@ -4,7 +4,7 @@ Hi 👋 My name is Rijan
 Full Stack Web/App Developer
 ----------------------------
 
-Welcome, I am Raisul Islam Rijan. I have been started my career since 5+ years ago in professional Web Application Development field in PHP and Laravel, Nodejs, Golang. After that I learned a lots and still learning new tech stacks. Now I am full time professional freelance web and mobile application developer. In professional, secure and scalable development area, I am hand to hand experienced. eCommerce to enterprise level application development expert. I am responsible, dedicated and honest in my career, personal life and professional stage too.
+Welcome, I am Raisul Islam Rijan. I have been started my career since 7+ years ago in professional Web Application Development field in PHP and Laravel, Nodejs, Golang. After that I learned a lots and still learning new tech stacks. Now I am full time professional freelance web and mobile application developer. In professional, secure and scalable development area, I am hand to hand experienced. eCommerce to enterprise level application development expert. I am responsible, dedicated and honest in my career, personal life and professional stage too.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [DeveloperRijan.COM](http://developerrijan.com)
