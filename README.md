@@ -8,7 +8,7 @@ Welcome, I am Raisul Islam Rijan. I have been started my career since 7+ years a
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [DeveloperRijan.COM](http://developerrijan.com)
-* ✉️  You can contact me at [DeveloperRijan@gmail.com](mailto:DeveloperRijan@gmail.com)
+* ✉️  Mail [DeveloperRijan@gmail.com](mailto:DeveloperRijan@gmail.com)
 * 🧠  I'm learning  Rust
 
 * ⚡ Am Friendly Person Over a Developer ):
