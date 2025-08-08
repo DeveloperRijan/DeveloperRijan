@@ -16,7 +16,7 @@ From scalable eCommerce platforms to enterprise-grade systems, I’ve built robu
 - 👨‍💻 I specialize in **Golang, Node.js, Python (Django), PHP (Laravel)**, and **Flutter**
 - 📱 I build both **Web** and **Mobile Apps**
 - 🧠 Currently exploring **Rust**
-- 🏆 Top Rated Plus Freelancer on Upwork
+- 🏆 Top Rated Plus Freelancer
 - 🤝 Open to new freelance collaborations and partnerships
 
 ---
