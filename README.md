@@ -3,7 +3,7 @@
 
 ---
 
-🎯 I’m a passionate, self-driven Full Stack Developer with 8+ years of hands-on experience in **Web & Mobile Application Development**.  
+🎯 I’m a passionate, self-driven Full Stack Developer with 10+ years of hands-on experience in **Web & Mobile Application Development**.  
 From scalable eCommerce platforms to enterprise-grade systems, I’ve built robust and secure solutions using modern tech stacks.
 
 💼 Currently working as a full-time **freelance developer**, leading a small team that delivers high-quality results with dedication and agility.
