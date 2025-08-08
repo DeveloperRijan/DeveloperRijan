@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Raisul Islam Rijan 👋</h1>
-<h3 align="center">Full Stack Web & Mobile App Developer | 8+ Years of Experience</h3>
+<h3 align="center">Full Stack Web & Mobile App Developer | 10+ Years of Experience</h3>
 
 ---
 
