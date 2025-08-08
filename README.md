@@ -27,7 +27,7 @@ From scalable eCommerce platforms to enterprise-grade systems, I’ve built robu
 `PHP` `Golang` `JavaScript` `Python` `Dart` `SQL`
 
 **Backend Frameworks:**  
-`Laravel` `Node.js (Express)` `Django` `Gin (Golang)`
+`Laravel` `Node.js (Express)` `Django` `Gin (Golang)` `Fiber (Golang)`
 
 **Frontend:**  
 `HTML5` `CSS3` `JavaScript` `React` `Next.js` `Vue.js` `Nuxt.js` `jQuery`
